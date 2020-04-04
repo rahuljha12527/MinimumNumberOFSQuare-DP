@@ -3,8 +3,8 @@
 
 Minimum Number Of Squares
 Send Feedback
-Given an integer N, find and return the count of minimum numbers, sum of whose squares is equal to N.
-That is, if N is 4, then we can represent it as : {1^2 + 1^2 + 1^2 + 1^2} and {2^2}. Output will be 1, as 1 is the minimum count of numbers required.
+Given an integer N, find and return the count of minimum numbers, sum of whose squares is equal to N.<br>
+That is, if N is 4, then we can represent it as : {1^2 + 1^2 + 1^2 + 1^2} and {2^2}. Output will be 1, as 1 is the minimum<br> count of numbers required.
 Note : x^y represents x raise to the power y.
 Input Format :
 Integer N
